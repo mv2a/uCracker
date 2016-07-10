@@ -39,10 +39,3 @@ Then you have to run
 	
 Now you only have to wait, and you will see all the credentials that your uCracker application has registered.
 
-
-Application overview
---------------------
-
-Please checkout the application overview at http://farolfo.github.io/uCracker.
-
-
