@@ -1,0 +1,2 @@
+For some reason the windows 64 bits dll didn't seem to work. The 32 bits windows seems to be fine (on a 32 bits JVM).
+Maybe related? --> http://stackoverflow.com/questions/9483379/jpcap-dll-on-a-64-bit-system
